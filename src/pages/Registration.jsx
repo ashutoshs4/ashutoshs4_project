@@ -34,7 +34,7 @@ function Registration() {
 
                 <Row className="mb-3">
                     <Button variant="primary" type="button">
-                        {/* dev 1 */}
+                        {/* dev 12 */}
                         Registration
                     </Button>
                 </Row>
