@@ -34,6 +34,7 @@ function Registration() {
 
                 <Row className="mb-3">
                     <Button variant="primary" type="button">
+        {/* xbvjcb */}
                         Registration
                     </Button>
                 </Row>
