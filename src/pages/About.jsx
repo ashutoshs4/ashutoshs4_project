@@ -6,6 +6,7 @@ function About(){
             <h1>Hello About Dev</h1>
             <h1>Hello Secnd Line</h1>
             <h1>About Us</h1>
+            <h1>Hello Ashutosh</h1>
         </>
     );
 }
