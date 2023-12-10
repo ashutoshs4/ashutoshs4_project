@@ -5,7 +5,7 @@ function About(){
         <>
             <h1>Hello First ABC</h1>
             <div>Hello Subject</div>
-            ASASS
+            ASA
         </>
     );
 }
